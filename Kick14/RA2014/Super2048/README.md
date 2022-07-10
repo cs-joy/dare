@@ -5,6 +5,7 @@ Problem
 
 2048 is played on a simple 4 x 4 grid with tiles that slide smoothly when a player moves them. For each movement, the player can choose to move all tiles in 4 directions, left, right, up, and down, as far as possible at the same time. If two tiles of the same number collide while moving, they will merge into a tile with the total value of the two tiles that collided. In one movement, one newly created tile can not be merged again and always is merged with the tile next to it along the moving direction first. E.g. if the three "2" are in a row "2 2 2" and the player choose to move left, it will become "4 2 0", the most left 2 "2" are merged.
 
+![image](super.PNG)
 
 The above figure shows how 4 x 4 grid varies when player moves all tiles 'right'.
 
