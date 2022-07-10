@@ -1,6 +1,6 @@
 /**
  * @file BadHorse.cpp
- * @author your name (you@domain.com)
+ * @author cs-joy (cs-joy.me)
  * @brief 
  * @version 0.1
  * @date 2022-07-10
