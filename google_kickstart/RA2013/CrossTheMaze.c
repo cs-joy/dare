@@ -46,7 +46,9 @@ Sample input                                                   Sample output
 ...
 1 1 3 3
 
-
+Note:::
+In the 2nd test case after moving 1 cell down from his starting cell, Edison will still be able to lean on the wall at the cell (1,2) by his left hand.
+In the third test case, due to Edison can't touch the wall at cell (2,2) initially, so he has to go east in his first step.
 
 @ source - https://codingcompetitions.withgoogle.com/kickstart/round/0000000000434ba1/00000000004347b2
 
