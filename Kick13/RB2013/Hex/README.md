@@ -19,7 +19,7 @@ Note that in any impossible state, the only correct answer is "Impossible", even
 
 Here's a an example game on a 6x6 gameboard where blue won. Blue was the first player to move, and placed a blue stone at cell marked as 1. Then Red placed at cell 2, then blue at cell 3, etc. After the 11th stone is placed, blue wins.
 
-![image](hex.png)
+![image](hex.PNG)
 
 Input
 The first line of input gives the number of test cases, T. T test cases follow. Each test case start with the size of the side of the board, N. This is followed by a board of N rows and N columns consisting of only 'B', 'R' and '.' characters. 'B' indicates a cell occupied by blue stone, 'R' indicates a cell occupied by red stone, and '.' indicates an empty cell.
