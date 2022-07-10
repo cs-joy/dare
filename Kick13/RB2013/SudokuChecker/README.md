@@ -70,8 +70,10 @@ Sample input
 
 Sample output
 
-`
+```
 Case #1: Yes
+
 Case #2: No
+
 Case #3: No
-`
+```
