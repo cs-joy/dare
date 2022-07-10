@@ -51,3 +51,13 @@ Fury_Leika Dead_Bowie
 @ source - https://codingcompetitions.withgoogle.com/kickstart/round/0000000000434944/0000000000434749
 
 */
+
+#include <iostream>
+using namespace std;
+
+int main(){
+
+    cout << "Bad Horse";
+
+    return 0;
+}
