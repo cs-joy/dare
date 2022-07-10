@@ -30,7 +30,10 @@ Test set 2 - Hidden
 3 ≤ N ≤ 6.
 
 Sample
+
+
 Sample input
+
 `                                             
 3                                                         
 3                                                         
@@ -64,7 +67,9 @@ Sample input
 2 8 7 4 1 9 6 3 5
 3 4 5 2 8 6 1 7 9
 `
+
 Sample output
+
 `
 Case #1: Yes
 Case #2: No
