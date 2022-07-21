@@ -1,6 +1,4 @@
-// Your First Program
-
-class HelloWorld {
+class Moist {
     public static void main(String[] args) {
         System.out.println("Moist!"); 
     }
