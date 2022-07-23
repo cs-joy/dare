@@ -1,0 +1,1 @@
+print("Lazy Spelling Bee")
